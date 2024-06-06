@@ -1,5 +1,5 @@
 site_name: Technical Writer tasks - Michał
-site_url: www.test.com
+site_url: http://www.test.com
 theme:
   name: material
   features:
