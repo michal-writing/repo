@@ -35,3 +35,5 @@ markdown_extensions:
           - overrides/.icons
 nav:
    - index.md
+   - send_email.md
+   - bike.md
