@@ -35,5 +35,5 @@ markdown_extensions:
           - overrides/.icons
 nav:
    - index.md
-   - send_email.md
-   - bike.md
+   - Task 1. Sending a file via Gmail: send_email.md
+   - Task 2. Introduction to bikes: bike.md
